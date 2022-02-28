@@ -2,6 +2,22 @@
     "rawData": {
         "studyId": "71a90290-c9b6-42be-ae8b-d3d90915be52",
         "modality": "MG | US",
+        "familyHistory": {
+            "value": null,
+            "color_rgb": [
+                0,
+                158,
+                15
+            ]
+        },
+        "personalHistory": {
+            "value": null,
+            "color_rgb": [
+                0,
+                158,
+                15
+            ]
+        },
         "stacks": [
             {
                 "seriesDescription": "MG",
@@ -17,6 +33,30 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "oval",
+                            "color_rgb": [
+                                255,
+                                255,
+                                0
+                            ]
+                        },
+                        "margin": {
+                            "type": "circumscribed",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "density": {
+                            "type": "high",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
                         "handles": [
                             {
                                 "x": 165.5473441108545,
@@ -176,6 +216,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1555.1154734411086,
@@ -189,6 +239,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1505.6143187066975,
@@ -202,6 +262,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1898.0877598152426,
@@ -215,6 +285,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1944.05311778291,
@@ -228,6 +308,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1869.8013856812934,
@@ -241,6 +331,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1841.515011547344,
@@ -267,6 +367,30 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "oval",
+                            "color_rgb": [
+                                255,
+                                255,
+                                0
+                            ]
+                        },
+                        "margin": {
+                            "type": "circumscribed",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "density": {
+                            "type": "high",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
                         "handles": [
                             {
                                 "x": 499.68013856812934,
@@ -478,6 +602,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1526.2993977489646,
@@ -491,6 +625,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1530.3648960739029,
@@ -504,6 +648,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1540.9351917187428,
@@ -517,6 +671,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1613.3010619026468,
@@ -530,6 +694,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1484.8313148345924,
@@ -543,6 +717,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1474.2610191897525,
@@ -556,6 +740,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1456.3728265600234,
@@ -569,6 +763,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1466.1300225398759,
@@ -582,6 +786,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1486.4575141645678,
@@ -595,6 +809,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1705.2566671905288,
@@ -608,6 +832,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1804.8804152678908,
@@ -621,6 +855,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1940.7309808279306,
@@ -634,6 +878,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 1979.221974403275,
@@ -647,6 +901,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 2053.9397854612967,
@@ -673,6 +937,30 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "round",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "margin": {
+                            "type": "obscure",
+                            "color_rgb": [
+                                255,
+                                255,
+                                0
+                            ]
+                        },
+                        "density": {
+                            "type": "high",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
                         "handles": [
                             {
                                 "x": 163.49653579676675,
