@@ -1,0 +1,775 @@
+{
+    "rawData": {
+        "studyId": "e08feb68-27c7-4c9e-a4b3-22504079f737",
+        "modality": "MR | MG",
+        "stacks": [
+            {
+                "seriesDescription": "MR",
+                "stackId": "8",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/0a52e2f5-71965f2f-79b8e570-edb35175-9651f3ac/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d429a8e5-bcac405f-ed96eb10-ff6b0e3b-f771880e/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a731e1b9-776324a6-48a61609-407db087-a554eaca/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/cb4f9477-bde4b0fe-8bff3352-c8d32789-b656f66b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5e147b95-8f569419-1dd6cb4f-b1d9fdfb-b006649d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/df9cb243-190be5f7-7d1c4e29-dbac564c-92cdd4f5/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5098afa4-4e58c31f-e9cf4c23-be50f313-05497d51/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ba18c0de-0456881c-c30b95ce-e4406640-bce7b469/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b5544fd3-c1985d7b-e8c1103c-eeaa681f-78079a36/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/de1bdcb6-68b59b7a-80273625-e5193d70-b6c8c393/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/266045e9-17b33bb6-78353984-eb86cb7b-557f740f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d023e768-62b8db62-63c93972-c0f1f1e7-a832fa93/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ef289ef9-5a4cc938-849c94d5-60701bbf-55128dc1/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a91cdc1d-4c654482-594c3e40-60853242-fabd9793/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e1292dad-fd39be17-d3c41f35-1552f870-aa001863/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/38312a48-4c174e6c-36c6a319-5ccde452-dd5401f9/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ad689df5-d6ee377a-9f522280-075012de-455ec6af/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e524380d-483cb7ea-978234ad-3b437816-c4df1f06/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c4c3c8be-28e5f51e-4c34263f-9372308d-63f35ab9/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/081eaa31-446fd735-ab32f42d-df82fcb3-1ec510a1/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/0569ef32-e28afbed-9ab7b6b8-2d84f048-b4f93ee9/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/77a6e4cb-5ed7bdbf-3d263290-f9639773-74e6adc9/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/9a4d6521-438eb8f8-0ec6e073-56254fde-bd377a4b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/684bb4b3-5c0266da-6d468b1b-e8042378-41207b4b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ade07ab3-a1ccc6f7-edc12ff7-f428ca28-30e63fcb/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b19227e2-4f6d0c61-4c36cdb5-a4274ad9-19dd9b59/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b79bc01f-dc615b5c-2255c2ec-d904ddbc-816b54d1/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2b776457-3f9f5e11-cb9c1fbe-b7588644-8e44ccc3/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e2820c53-b46e62b8-c25b78ee-54e8c46c-7850fa57/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/23594ff0-acc67bbd-b03b753b-72972c10-a01a7089/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/3126f965-b6ba31ff-97d80642-b27bbf12-ca7c27fb/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/95b3899c-33aa7104-2a334d2a-f03ac9d0-4b0a48a4/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5f8f3b3c-c1fa1d8f-506b526c-b950773b-43b6768c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/230d63e0-8b0f1587-4bf163c2-e0270116-869471f7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5eb31fb2-cd9a0c2c-e948f88c-aee60a7f-c56f780f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/fd90989e-c54cfd1a-32204f1f-8d820f90-27e2cc57/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c71f287b-80fa0dd1-9b63cf28-7a319f94-416a4b0f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/dde3e464-38020f4a-53830db2-4d9cded0-6b0bde22/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b82acc05-b7143d23-a316b8ad-5ad3158f-555ff9b1/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/16651c64-d84eac6d-dcb273d0-d4b55648-bcaacb52/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c8567594-796351b6-eb516848-87013eaf-4992978f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d748ddca-f80a4ac8-f8db19a3-8b168bb9-cfacd216/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/7fcb2b8b-c5c03f72-46eb6b83-7db03755-d878866d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/133e9c50-e3109b7d-df01ae4d-be312529-98383299/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/216432b5-c8697e00-5e19ef8c-db6be8c2-57abba3b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/25ba3802-e80b2858-96af6d70-f6b26573-c61d75f9/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/761b64ba-6fef71df-80e3dbf8-2f618112-669485f8/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1c46683d-b4bbc1ba-2b2d08fe-1b0e4119-41b2d139/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/4f604940-176e74a4-752793b5-740c42aa-d8aee26d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1952bd9d-a27cfa1e-8ae67f5a-1e718783-6efebaf5/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/4842024d-0054b253-5b135836-b336a823-9e06c685/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/63441212-a3a24d87-5e6c6018-6de97270-3e3ab64e/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ae5c6ab0-efdc5381-9ba10d8d-a09fc15e-a669ac6b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a8d0c1fa-96fd2665-bbb3c24f-cf3535a3-090aae14/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/483c3ed3-fe4b5593-784eebc1-7e4b89a8-5dcb3ea4/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/fd04344e-572bb642-efc67e43-48909b12-fac218ba/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/112e7406-b9f75aa2-278e216a-d479cff0-856e69e9/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/61213b97-edbfaf49-96b485f6-b821c4a7-73939458/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2b46633e-b99ad95d-fde6f38a-4db908bb-b7baf69a/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5cad3ba7-0c6a9504-0032f64f-01cb8ab6-59fc1afb/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a05281d1-d60490a2-9235e158-0b79f2a5-03cf6f34/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/3572ff5e-18b6752e-943cad77-0e90e59c-edfbf03f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b9d7998c-53283290-e0e43bae-a70736aa-56b31e08/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/7cb4b2f8-3831245e-589719fb-101cc570-eb989119/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/7ec99b9f-2201541b-ecb3567d-a89abd71-54bbfc17/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/151a03a1-560979f7-f9d96fa8-91686995-8633e2d9/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/03cd50f2-ce41f9b9-819a7ed0-68325dcd-f52db383/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5e42e43a-1c35c94d-d2fa582b-506a95db-76efe851/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/3ee7c1a5-66ec3d6e-0739d99b-599f880a-d37cb473/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2bd9dfe6-f16c85f1-10f99bca-cefbd448-604ec6e0/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/11327364-a21136c5-aa8d904d-8de5f79e-21ff166b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/188cd1ef-3264da66-13c675e7-f6ea8f15-69ddcb89/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/bc6546af-8205f69d-982ce8c6-3298318a-97afedfa/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2ddfd1ac-86705291-88414a72-0405fc64-8d0b9b2f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/8134d271-95a19622-4f7e5a67-765b6bfd-079ed933/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e489ef99-4d482e33-912f9c36-91712d1e-c1fa1f59/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2c05b16a-5c89000d-72416e95-01d50035-01ff83d7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b763567c-89228c47-7ecbeec9-919ff921-26d4a052/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/13a3b76b-e1233128-ecb41fdd-a739de22-460b2510/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/875f5f3d-6c76ee83-705cb0ff-984f2314-57ee2b89/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/10bbacc3-85f58f89-9912c09e-c8f520f4-cd0d41de/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/26b84928-e13cec7c-dbc8dde4-28ee10dc-344ba875/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/95f4b280-a3634de8-4603f819-d5e347d8-b0fe9059/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/287bb6c5-ff1ef646-ce6b6fab-f6417728-8c09ec09/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d039037c-43d17f41-8d19cce3-45ebd84a-13e88900/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1270983b-5eeaa8c9-9ff6a78d-f6339870-8033ce78/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/50c3e5ab-49caee3f-29e847ec-f601c7e8-715d827b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/252ba82b-1184c5a8-679f288d-911ce8d8-995cb1c1/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c8dc0fd0-fbf7f74f-40e4901d-2f2fb158-00008d20/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/bd11676c-31a2b203-5bcdbf60-d3bbb40e-78ad2161/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/13ce3356-cdd23ff1-105cb7de-65cd92f0-d410b0dd/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/20c5d405-78a8fbf3-36c54a2d-0c0d00a8-71fedaf1/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/27906868-6c06bb69-09ee55f5-c08eeed0-16511b49/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b95a2fa7-287cb013-84c6596d-ec153745-3922727a/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/80a8461c-56695553-5a5b6d7a-33d04277-24667d48/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/8740a723-051e4ed4-781650ca-40745d10-dfe53495/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/9e925279-2d4937c4-1bd5c905-a9707d26-3768cb4e/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6d0ed929-c6ecb481-8fe2741d-7927714d-f094da31/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/8128de85-d4b73449-24923cb0-b257c1be-bd0e94b7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6500a3ca-5f5f0ed9-97e13206-c8439d29-d54a061e/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6940d8c2-2fc729c0-a8adb729-85d383bd-ac509d0d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e8a9e9eb-3c7b8012-e337c2e5-18a0a8aa-e63e0c71/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/906d353c-33f21e69-5641c9d6-f1f5ed52-105f63f4/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e2425ac4-06c91f94-6a29869d-d7921ad4-c953a28f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/60ba673e-029f80bc-e1b96b9b-d9173c49-042623ea/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/cbed02b3-c5ed1bbe-35e8e8e4-64159e15-09c88cb8/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d390f6fb-55be49d6-107f3722-3983e19c-27f5b283/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c2e7e33a-b1d732cc-9981b291-7f984d48-ba91bef6/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/fed37f1e-55046d0c-2c906f48-0c90049b-71660f69/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/dd7a40e7-dd3d383d-a395562a-5d60933b-9b052955/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/cd11b897-01ae8982-597407e5-2f20abd8-354c626e/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/031dbd67-ccf2c1e0-e8ebfdb6-1e45683c-4b95b3b5/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d764c978-46168977-064ac7cc-ff0f9fa1-d8a52671/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/693ffa97-183d54c7-55313edd-81a90c74-0ada8853/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/fab56011-6812e4f7-c48cbec7-d8489731-82b8ab69/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/3cb65e4a-57428fa9-806cdce1-ac5e90f3-ca62f9e8/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5d538058-e3d0ff48-892ca784-a35b9f21-cf0ac87a/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/27fe6f31-7ea0ea36-2e59e1fe-ea2ca736-4527c4d3/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/62c88e3e-2041c944-4e196d90-53cd856e-0b905ebc/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/97c7a19b-562045f3-6840d533-1c35f6d1-e19abb85/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/eff2f54f-22d0f8cd-6f972815-c27c62c4-886955e8/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/083de23d-f78b5f22-737605e4-5f15d043-830a78d5/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/eb9caebf-f32d46d6-d3fb6cb5-d6f870fe-6c0c6b71/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a2849a56-f6133f09-f588b912-ea6421df-70dd4318/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e0b60c86-12b2e3d6-69ba7532-e09f08b2-fe568e18/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/7d1a1aee-9d17f94c-1d109732-6c48ef48-287af288/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a35be55d-5fa346ce-c3487647-746dcfda-49ff8b37/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/df480ecb-c990cd57-dfec0778-a82b2c95-d4b1b029/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/45a2cb50-eb1b3fc4-f2a07816-35f78e7b-4956ed72/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/944d5357-8aeeec6f-caff5d0b-9dbe85b0-fe08abe8/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/8d0b4892-dd07469b-7ba83a43-c1d6e6a5-2fb8b3ac/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d4e0365a-bb0df6a7-553bed6e-8ec8b1de-8c9d0a0c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6689633b-481b6eba-d02ed440-a54b03dd-fa22ac01/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/20a87edc-9909053b-d0e28b64-02124007-739451a7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/93e9de75-4874dc47-b2800d8e-cf73b6c5-595e0ba6/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/393a83ac-60592a3c-cce7e2fe-d888e632-c6e745b6/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6acb5c2b-f7942806-5cf83840-3c2b0959-345fce16/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f7128004-e0326d6b-163cb8d1-9f5bfdcc-c92e7324/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/92a09308-53a34f62-c7d2ca79-fddb438c-c82f1d86/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/58625c56-e0187c5b-6fbc2f1b-13ab11b7-94808f6f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b365be55-e2a5c1ba-02cbc8b0-9537f37c-1ee53c20/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ff1093a7-0b716941-58ca82a8-3c1454fd-3496e6e5/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/515a0d0f-6a3f87fa-b23d00d2-56fa2722-89f432f4/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ec6e1256-28e79cc5-c2d3742e-22851d21-4220fd3b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/06e03359-f7fabcc8-59b89ab3-9af2927a-1efec283/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/effbac68-3f2e8324-bcc5cdee-bb4ab3b6-15e2f4f3/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ab4f5781-63607fa8-20d78c2a-5ca110d0-3a1a6050/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1eb72548-137935b4-1b6caa70-5a83aa9f-dbe68861/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b8a0312b-2fbdb77d-335899b6-5b48d33d-610099f0/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/bae9cc7b-7f1bb5c4-3c4729e3-ad03980c-24e428c1/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1ae7038e-d35112c9-b7fa24e9-faa279fa-1e945ac3/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/72a178d5-a3404e0b-743634ff-e39e150d-49a9b764/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a70e03bb-03414abd-910f0ed4-f4756272-1e72e122/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/35fe0d48-6eb3bc32-1c6f0f8f-d30af996-3e425ece/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/250d5701-a97169b1-704ccad1-a7dd4d9c-4b82d21a/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f51e2c55-10de60cf-774053a0-717dc13d-70a6cb2c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6f3531d5-70317513-7fa20436-9807ed6d-74c61d2c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/69717632-d6ab80d3-8897ba3f-06b7374c-1f5653b0/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/320e5a9e-69623b55-2e60d8ab-a334e6f1-fe14b8f3/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1cd466f3-ce509be5-5403b4f8-cc0ad29f-d9bcc5bd/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/8540f3ad-854c62fa-ad57e672-029dbb0e-ad4267e0/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/8a222ffc-53fb17af-0d12ec57-8eff460f-cccadb6c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/8f4789a6-d382d445-46c84a43-309a2196-cc85ca00/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/184c8492-53a04a4a-c2a527ed-20c940c0-e4d31187/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/401bc027-739d2fa3-c30b9874-4d4075df-62108232/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/aa52e20f-09eeabdf-1bf819c2-8a64e1e3-a8063b92/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5dcbde14-737c1215-67c3ee8b-0a66e54d-3fca7bf0/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/09e3d941-03cc3112-ffed9f6f-d2a40739-217008f2/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e69935b3-e3e9d810-47b17f70-bf597086-06e71713/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c805682e-e34d8dca-2f59f6e1-6f5337a3-99277963/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5ac41ebb-3c6881dd-50d68780-83cf0a46-5ed79811/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/bfd85bfe-559734b1-200ed861-1b94e896-3c2b5e94/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c762d4b1-e9e725d8-5af51b1c-6dd80d95-f326c97a/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5a7c5381-0f3da3f4-5be49224-3e6138de-6fffea3a/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/355cb738-bc689346-f9dcc2b4-23fba313-81f690ec/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/bf375c87-af61faeb-15ddaaf2-adccf651-6d06ec7f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1f177069-98b5142d-adaaee00-89f0b341-10a4c112/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/72863eb2-c6f025a0-1ec29cf6-bcab5734-56330730/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2016127a-d9caf403-f3388c2e-e05f2767-f3acc259/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a44c73d3-e376d5ad-726df2f5-ddbb7bdd-24065717/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/4cc60b14-ef31ff75-e77a9572-f5669c4e-0ef7b524/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d8ffeaa1-5c20e641-360c3fe6-c0fa2a56-9c511ffc/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/3ea8fe68-0eb7ca0a-b462cf91-5214f0f8-752d3407/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f6b7f883-b15138da-1e88dcbd-4e557127-6ccc328a/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/20134d9c-6ec3a14b-10adae77-f0a383c1-8ec35f9b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/87497eb8-efe5821a-360c57fb-820caf8c-74017de0/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/aa06b09a-b0dd0ee4-7eb0fc04-02e050af-99f1b86c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/89ca3722-cdaef3a9-995266ca-4649feb5-be04f8e0/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c8cabb56-2fe465a2-aa053700-d26cc7b7-04c46b6b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/9461e412-896d96c0-96bb3ccd-6e994eae-4a675644/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/11a7d770-bee31bb8-77df077a-31ad24aa-fb170c24/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/785e96ff-066bd08b-1e6b77dc-e24f7a6f-dd92c6e3/file"
+                ],
+                "seriesIndex": 0,
+                "currentImageIdIndex": 81,
+                "viewPosition": "",
+                "imageSide": ""
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "109",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c41092da-434c137a-788e1cb9-e509b3f4-47e6fa8b/file"
+                ],
+                "seriesIndex": 1,
+                "currentImageIdIndex": 0,
+                "viewPosition": "CC",
+                "imageSide": "L"
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "109",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d8cc5f68-476684d0-ad04805c-94068082-10eb327c/file"
+                ],
+                "seriesIndex": 2,
+                "currentImageIdIndex": 0,
+                "viewPosition": "CC",
+                "imageSide": "R",
+                "freehand": [
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": [
+                            {
+                                "x": 1758.5328742591983,
+                                "y": 1611.3234363804936,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 1789.2602059274004,
+                                        "y": 1590.1983958586047
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 1789.2602059274004,
+                                "y": 1590.1983958586047,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 1825.7489122833908,
+                                        "y": 1563.3119806489276
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 1825.7489122833908,
+                                "y": 1563.3119806489276,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 1800.7829553029765,
+                                        "y": 1522.9823578344121
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 1800.7829553029765,
+                                "y": 1522.9823578344121,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 1758.5328742591983,
+                                        "y": 1509.5391502295738
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 1758.5328742591983,
+                                "y": 1509.5391502295738,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 1748.930583112885,
+                                        "y": 1540.266481897776
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 1748.930583112885,
+                                "y": 1540.266481897776,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 1733.5669172787839,
+                                        "y": 1565.2324388781904
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 1733.5669172787839,
+                                "y": 1565.2324388781904,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": true,
+                                "lines": [
+                                    {
+                                        "x": 1733.5669172787839,
+                                        "y": 1599.800687004918
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 1733.5669172787839,
+                                "y": 1599.800687004918,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": true,
+                                "lines": [
+                                    {
+                                        "x": 1758.5328742591983,
+                                        "y": 1611.3234363804936,
+                                        "highlight": true,
+                                        "active": true,
+                                        "lastFlag": false,
+                                        "lines": [
+                                            {
+                                                "x": 1789.2602059274004,
+                                                "y": 1590.1983958586047
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "highlight": false
+                    }
+                ],
+                "probe": [
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2363.477216476931,
+                                "y": 1062.0723828113773,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2290.4998037649507,
+                                "y": 1008.2995523920233,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2229.045140428546,
+                                "y": 912.2766409288911,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2171.4313935506666,
+                                "y": 818.1741876950215,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2125.3403960483633,
+                                "y": 733.6740256074652,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2073.488023858272,
+                                "y": 662.6170711247473,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2106.1358137557368,
+                                "y": 620.3669900809691,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2163.749560633616,
+                                "y": 628.0488229980197,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2325.0680518916784,
+                                "y": 835.4583117583853,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2361.5567582476688,
+                                "y": 843.1401446754359,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2006.2719858340793,
+                                "y": 1098.5610891673678,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2002.4310693755542,
+                                "y": 1112.004296772206,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1796.942038844451,
+                                "y": 1042.867800518751,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1833.4307452004414,
+                                "y": 991.0154283286595,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1835.3512034297041,
+                                "y": 935.3221396800428,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1781.5783730103499,
+                                "y": 1140.811170211146,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1958.2605301025133,
+                                "y": 1453.8458615809568,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1896.8058667661085,
+                                "y": 1741.9145959703537,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1927.533198434311,
+                                "y": 2024.2219556719624,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1900.646783224634,
+                                "y": 2068.3924949450034,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1733.5669172787839,
+                                "y": 2093.3584519254177,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1766.2147071762488,
+                                "y": 2139.449449427721,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1818.0670793663403,
+                                "y": 2183.619988700762,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1846.8739528052797,
+                                "y": 2214.347320368964,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2340.4317177257794,
+                                "y": 1403.913947620128,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2325.0680518916784,
+                                "y": 1380.8684488689764,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 2056.203899794908,
+                                "y": 912.2766409288911,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    }
+                ]
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "109",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/18d93db0-30a23425-52a228b0-62278984-1aa23b8d/file"
+                ],
+                "seriesIndex": 3,
+                "currentImageIdIndex": 0,
+                "viewPosition": "MLO",
+                "imageSide": "L"
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "109",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/8430bc11-488d31dc-efcf60ca-8d09a24b-1b07a7cf/file"
+                ],
+                "seriesIndex": 4,
+                "currentImageIdIndex": 0,
+                "viewPosition": "MLO",
+                "imageSide": "R"
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "108",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/aff77b9e-f225b6c1-be0e83a8-a62048cf-b5688f46/file"
+                ],
+                "seriesIndex": 5,
+                "currentImageIdIndex": 0,
+                "viewPosition": "CC",
+                "imageSide": "L"
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "108",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/64494d01-cc813a42-828b7c52-96343a23-0ee1738f/file"
+                ],
+                "seriesIndex": 6,
+                "currentImageIdIndex": 0,
+                "viewPosition": "CC",
+                "imageSide": "R"
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "108",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/58632c00-66ad4658-790c0a08-88c9bd59-729f5616/file"
+                ],
+                "seriesIndex": 7,
+                "currentImageIdIndex": 0,
+                "viewPosition": "MLO",
+                "imageSide": "L"
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "108",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/9a5934f7-9f6b033e-76da8d68-7efa3489-a0b82920/file"
+                ],
+                "seriesIndex": 8,
+                "currentImageIdIndex": 0,
+                "viewPosition": "MLO",
+                "imageSide": "R"
+            }
+        ],
+        "currentStack": 4
+    },
+    "path": "e08feb68-27c7-4c9e-a4b3-22504079f737.json"
+}
