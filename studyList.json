@@ -1,0 +1,324 @@
+{
+    "studyList": [
+        {
+            "patientName": "Anonymized2",
+            "patientId": "6e4da81a-7e91-4c09-9bd0-3fd4f24245e1",
+            "internalId": "7dd932",
+            "studyDate": "",
+            "modality": "MAMA^ROTINA",
+            "studyDescription": "MAMA^ROTINA",
+            "numImages": 176,
+            "studyId": "6e4da81a-7e91-4c09-9bd0-3fd4f24245e1"
+        },
+        {
+            "patientName": "Anonymized3",
+            "patientId": "8316f96c-90dd-4aca-bd3a-92d5a5e634ae",
+            "internalId": "328450",
+            "studyDate": "",
+            "modality": "MAMOGRAFIA DE ROTINA",
+            "studyDescription": "MAMOGRAFIA DE ROTINA",
+            "numImages": 4,
+            "studyId": "8316f96c-90dd-4aca-bd3a-92d5a5e634ae"
+        },
+        {
+            "patientName": "Anonymized4",
+            "patientId": "b0337258-5312-4bbf-8eba-91f12935a53c",
+            "internalId": "30efb4",
+            "studyDate": "",
+            "modality": "ROUTINE MAMMOGRAPHY",
+            "studyDescription": "ROUTINE MAMMOGRAPHY",
+            "numImages": 4,
+            "studyId": "b0337258-5312-4bbf-8eba-91f12935a53c"
+        },
+        {
+            "patientName": "Anonymized5",
+            "patientId": "d68d4c14-022b-4c47-a2e1-688da05c7156",
+            "internalId": "51d37b",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "d68d4c14-022b-4c47-a2e1-688da05c7156"
+        },
+        {
+            "patientName": "Anonymized6",
+            "patientId": "e7b686a7-0635-4bfe-817f-b5a4b28740ba",
+            "internalId": "aaf0dd",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "e7b686a7-0635-4bfe-817f-b5a4b28740ba"
+        },
+        {
+            "patientName": "Anonymized7",
+            "patientId": "49665bbc-6d51-4424-b651-473f76eff6d9",
+            "internalId": "d89822",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "49665bbc-6d51-4424-b651-473f76eff6d9"
+        },
+        {
+            "patientName": "Anonymized8",
+            "patientId": "e1f2962b-4755-4043-ba82-58a6d4041f9a",
+            "internalId": "070384",
+            "studyDate": "",
+            "modality": "Mamografia",
+            "studyDescription": "Mamografia",
+            "numImages": 4,
+            "studyId": "e1f2962b-4755-4043-ba82-58a6d4041f9a"
+        },
+        {
+            "patientName": "Anonymized9",
+            "patientId": "24a343fb-ddd9-4e7b-ad7d-b7bdf095aad7",
+            "internalId": "671fc5",
+            "studyDate": "",
+            "modality": "Mamografia",
+            "studyDescription": "Mamografia",
+            "numImages": 2,
+            "studyId": "24a343fb-ddd9-4e7b-ad7d-b7bdf095aad7"
+        },
+        {
+            "patientName": "Anonymized10",
+            "patientId": "71516c22-3115-425d-8066-385791718f74",
+            "internalId": "632551",
+            "studyDate": "",
+            "modality": "Mamografia",
+            "studyDescription": "Mamografia",
+            "numImages": 4,
+            "studyId": "71516c22-3115-425d-8066-385791718f74"
+        },
+        {
+            "patientName": "Anonymized11",
+            "patientId": "f007066f-4364-44e7-ada8-25138385175f",
+            "internalId": "081b6e",
+            "studyDate": "",
+            "modality": "01",
+            "studyDescription": "01",
+            "numImages": 4,
+            "studyId": "f007066f-4364-44e7-ada8-25138385175f"
+        },
+        {
+            "patientName": "Anonymized12",
+            "patientId": "73419d87-f4c2-41ba-97ce-e81e92f6884d",
+            "internalId": "a4cbdf",
+            "studyDate": "",
+            "modality": "01",
+            "studyDescription": "01",
+            "numImages": 4,
+            "studyId": "73419d87-f4c2-41ba-97ce-e81e92f6884d"
+        },
+        {
+            "patientName": "Anonymized13",
+            "patientId": "d1f3d33d-a121-4eec-927c-f8473bcf77cb",
+            "internalId": "8ff7af",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "d1f3d33d-a121-4eec-927c-f8473bcf77cb"
+        },
+        {
+            "patientName": "Anonymized15",
+            "patientId": "146a3076-4c8b-43ce-a834-042c04236cf2",
+            "internalId": "9af813",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "146a3076-4c8b-43ce-a834-042c04236cf2"
+        },
+        {
+            "patientName": "Anonymized16",
+            "patientId": "8a34aadb-44f0-4c25-abf6-27fcceec1f95",
+            "internalId": "253103",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 3,
+            "studyId": "8a34aadb-44f0-4c25-abf6-27fcceec1f95"
+        },
+        {
+            "patientName": "Anonymized17",
+            "patientId": "ce0a4656-c0e9-46a6-b772-68341124e91f",
+            "internalId": "dd5f32",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 4,
+            "studyId": "ce0a4656-c0e9-46a6-b772-68341124e91f"
+        },
+        {
+            "patientName": "Anonymized18",
+            "patientId": "81c79a62-53a8-462f-9dbb-23ca0b0add8b",
+            "internalId": "ea0e84",
+            "studyDate": "",
+            "modality": "01",
+            "studyDescription": "01",
+            "numImages": 4,
+            "studyId": "81c79a62-53a8-462f-9dbb-23ca0b0add8b"
+        },
+        {
+            "patientName": "Anonymized19",
+            "patientId": "acad98af-6aec-4f9d-a2ee-793aeed4fe57",
+            "internalId": "75025a",
+            "studyDate": "",
+            "modality": "Mamografia",
+            "studyDescription": "Mamografia",
+            "numImages": 4,
+            "studyId": "acad98af-6aec-4f9d-a2ee-793aeed4fe57"
+        },
+        {
+            "patientName": "Anonymized20",
+            "patientId": "4b2c9317-9d57-4a96-a80d-ec3ab70c7921",
+            "internalId": "36cac9",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "4b2c9317-9d57-4a96-a80d-ec3ab70c7921"
+        },
+        {
+            "patientName": "Anonymized21",
+            "patientId": "ea494084-107c-4d7f-908c-6e377dda6d4c",
+            "internalId": "af013e",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "ea494084-107c-4d7f-908c-6e377dda6d4c"
+        },
+        {
+            "patientName": "Anonymized22",
+            "patientId": "34ba31d2-525f-4366-b940-20976018b865",
+            "internalId": "32d76a",
+            "studyDate": "",
+            "modality": "ECOGRAFIA MAMARIA",
+            "studyDescription": "ECOGRAFIA MAMARIA",
+            "numImages": 1,
+            "studyId": "34ba31d2-525f-4366-b940-20976018b865"
+        },
+        {
+            "patientName": "Anonymized23",
+            "patientId": "d8527450-5b6a-4961-b563-095e5b186639",
+            "internalId": "4247de",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 3,
+            "studyId": "d8527450-5b6a-4961-b563-095e5b186639"
+        },
+        {
+            "patientName": "Anonymized24",
+            "patientId": "be67e550-43eb-4739-83c7-5424db13c271",
+            "internalId": "75853a",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "be67e550-43eb-4739-83c7-5424db13c271"
+        },
+        {
+            "patientName": "Anonymized25",
+            "patientId": "6668654d-c383-45c7-974f-351194b93da9",
+            "internalId": "651ffc",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "6668654d-c383-45c7-974f-351194b93da9"
+        },
+        {
+            "patientName": "Anonymized27",
+            "patientId": "4ba9eb9a-65bc-4339-a77e-f3e799222123",
+            "internalId": "5bc396",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "4ba9eb9a-65bc-4339-a77e-f3e799222123"
+        },
+        {
+            "patientName": "Anonymized28",
+            "patientId": "43c8266d-c83e-40fc-a0dc-ac955a132c0e",
+            "internalId": "899854",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "43c8266d-c83e-40fc-a0dc-ac955a132c0e"
+        },
+        {
+            "patientName": "Anonymized29",
+            "patientId": "f29951b8-d84e-4c91-9558-303671914195",
+            "internalId": "853b54",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "f29951b8-d84e-4c91-9558-303671914195"
+        },
+        {
+            "patientName": "Anonymized30",
+            "patientId": "491536cb-1669-4de8-8d8b-eeb2ff0253dc",
+            "internalId": "18827f",
+            "studyDate": "",
+            "modality": "Ecografia Mamaria",
+            "studyDescription": "Ecografia Mamaria",
+            "numImages": 1,
+            "studyId": "491536cb-1669-4de8-8d8b-eeb2ff0253dc"
+        },
+        {
+            "patientName": "Anonymized31",
+            "patientId": "e08feb68-27c7-4c9e-a4b3-22504079f737",
+            "internalId": "7a5cf0",
+            "studyDate": "",
+            "modality": "01",
+            "studyDescription": "01",
+            "numImages": 8,
+            "studyId": "e08feb68-27c7-4c9e-a4b3-22504079f737"
+        },
+        {
+            "patientName": "Anonymized32",
+            "patientId": "3db29468-3cf7-494e-8079-fa794f4fa81b",
+            "internalId": "03d64b",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "3db29468-3cf7-494e-8079-fa794f4fa81b"
+        },
+        {
+            "patientName": "Anonymized33",
+            "patientId": "8af60052-f003-474a-8f19-6321cac6bcf0",
+            "internalId": "b804b2",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "8af60052-f003-474a-8f19-6321cac6bcf0"
+        },
+        {
+            "patientName": "Anonymized34",
+            "patientId": "00c862f7-f081-41a3-85ba-daf14328b0a9",
+            "internalId": "6ef683",
+            "studyDate": "",
+            "modality": "MAMOGRAFIA",
+            "studyDescription": "MAMOGRAFIA",
+            "numImages": 4,
+            "studyId": "00c862f7-f081-41a3-85ba-daf14328b0a9"
+        },
+        {
+            "patientName": "Anonymized35",
+            "patientId": "e4cbfa1e-4a68-4a3c-bf2e-7a25c52d1b00",
+            "internalId": "5c5350",
+            "studyDate": "",
+            "modality": "Breast",
+            "studyDescription": "Breast",
+            "numImages": 1,
+            "studyId": "e4cbfa1e-4a68-4a3c-bf2e-7a25c52d1b00"
+        }
+    ]
+}
