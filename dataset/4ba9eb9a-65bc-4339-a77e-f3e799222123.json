@@ -425,19 +425,6 @@
                             }
                         },
                         "invalidated": true
-                    },
-                    {
-                        "visible": true,
-                        "active": false,
-                        "handles": {
-                            "end": {
-                                "x": 681.0596562184026,
-                                "y": 692.3529963016027,
-                                "highlight": true,
-                                "active": false
-                            }
-                        },
-                        "invalidated": true
                     }
                 ]
             },
