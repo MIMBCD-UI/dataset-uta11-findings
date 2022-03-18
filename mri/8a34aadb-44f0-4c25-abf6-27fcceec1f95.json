@@ -1,0 +1,483 @@
+{
+    "rawData": {
+        "studyId": "8a34aadb-44f0-4c25-abf6-27fcceec1f95",
+        "modality": "Breast",
+        "stacks": [
+            {
+                "seriesDescription": "MR",
+                "stackId": "18",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f508bde8-b8a6a584-e2f0f58c-34096b09-e76b7f66/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2a6a2612-54d93ef5-4112eb85-18987db8-16972782/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a9e6798a-3b6f6d23-97830f81-ff5afc56-98b2eadc/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/dc682d4a-af916fa4-b5d45e2d-aafe5323-1879ee59/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/8c522615-2cf17401-31403cd2-34b8f7c4-670393c0/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5f31a325-82c9b433-7222b5fa-3713e8f8-ac62f995/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1679d4bd-375980d8-0dc12a09-e0e7f80b-df2fc221/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/bf43bd54-5adc0d8e-10456bf7-50655b79-d56cf3bb/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/0c490808-f3fc0460-7bb8b88c-db5e2730-72f05b08/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ce083bb6-888dc44b-a2911bf7-e0e94db8-a1821f41/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5a8eda1d-31ec0aba-5d32e613-571a6407-547d623d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6898ed97-3bb0ead2-e106b48d-b9a0022c-12cd7ae8/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/7b3837e6-84d3e392-c56a6548-581bb554-8083c9df/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/704f2031-d15aa04d-1e717e8d-261ebce6-92acc776/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/8e2e3d0c-9e3b318a-efb8e380-0b2f01ee-02e033cb/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/77ef9d0c-0cecf8e6-7dce1857-f4fd3f8c-e64db259/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f386b9cb-8dae5a3e-3e991bab-650837eb-a7484bb7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5a19f951-e61a0c17-6010c32f-7fe28c35-329f1b45/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a12c45d0-c6ea1f7a-84b6bd46-dbb08812-be878dcc/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5bbf3d39-6db13a8d-f5543645-c3210e95-f84c7b83/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1d020a17-753e4321-cfca4151-221c7cb4-4f9baf8d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/665a1a53-d8d55927-93f9a9de-f6759c3c-eec04bca/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6458427f-77d7a37e-81c398ea-f09443f9-8d2be36b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/77e394bb-4886ca9a-31b29ff2-73617116-70d287da/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/4bc092a8-0860a3dc-783069e5-cc1aaf54-2f7780a2/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2dd144fb-2e392d47-cf293bff-6f13c8ae-e90d1ae5/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/7404c1af-6e11b3b6-07f80f33-e6e9ea7a-55836e64/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/fc568ea4-e26bf3e2-1239dace-40b9297e-7e4aa8af/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/0a919ea8-744cfbbd-b3df5ee5-1da0075a-5c2f9413/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/08a37487-658faffe-8db41012-c86ef8d1-dcc69dce/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1fb238e9-eda6c4c8-8d5e35d9-64df2f79-e4de0750/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/83ea97fc-368f4e2e-09da0720-f64d3b95-e8f824a5/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/517b2e5d-5b82f347-78ed5f6c-4f10b330-86a00637/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e647b871-fcdf3aa1-ce212895-ee042658-f0e57676/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2d5b7da5-c3b1d885-e4bee7e2-4509fe27-43db504c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f4f937f0-e5c52eb3-4e73d2f9-c39ff236-00efdfe5/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/39dd7de8-9af1eaf6-1250742f-9e03c010-eacac1a5/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/eab5e131-a704f97b-56b5592f-d62a8fba-b27d70d1/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/425c8b1a-2e80d052-3fee53b6-44311982-370252c7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f5c53e87-7f56ab5a-a0a42ac3-fa3387c6-81713f9d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c718f66e-dec80338-692f929e-6f93ec20-c327c446/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/daebbad7-5accfc80-07a4b089-2dae8c71-cc0f0b6c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f2d482dc-f976ffce-e76f299d-4745fa4b-97c69e81/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2054d6b5-aa202592-a074feb8-288bdfea-c7aac227/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/3fc64ff0-5f2a8532-475279e1-9dfc893e-e4b30360/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ae01fb67-d960fd7f-ffc22ac4-44543647-a0b2d354/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/23b9718e-2c52257b-30b7fc10-8e9af5cd-16267183/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1e7b7e46-13396a97-6f386ca4-d7ba48e6-f32ab6ed/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/0dd10500-010e299c-c5ba6006-d025a841-edf40ef4/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a069557c-54f7ef03-d8a16767-5d66c0e1-9ab99737/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/26ab5738-0de3fd57-5f8582a3-d9acecf4-277899c9/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/bac0964e-0054e2ed-c26df00b-d169a7aa-5a2c5805/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/89b990d1-f17e6b15-91dee30f-06bdd088-39b622bd/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2b0c5623-5bb9847e-d35dc137-73effc02-79e1dd64/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/57e85bfb-d6117ce2-9d80e52a-fcbffc75-c28525d1/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ec490854-b115a2e7-6e94ed19-31b02652-f9ebdaf0/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/648f3191-615779aa-3e3f8189-b2a216f4-c2356c9f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b18fdc4c-9362d0b8-424c9ce5-8cc84b95-22dd78c2/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c9bdd197-71ae05fb-29e6f415-5cd1aa49-8e50f7cb/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ce508a21-24685746-e41057e3-fc72c1c2-33acfc97/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6b34db71-b6e0551e-782f9957-34778e37-a2970662/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f795f7cf-3d114880-c380cada-b58bf724-0f97d93f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c5afdaa3-b3c7d1ad-5dedd2f0-cc4e76f7-3b727f3e/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/59e56262-368b5279-d9793ca7-8ebf975c-00c78101/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b055b780-cf8fc6e0-2ee25147-75fb183e-013585e9/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/560c98f3-59a490e7-314049b8-b00b56ed-6ac56bdc/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/62e1307b-3967691c-fa489847-12b311d4-24ac6edd/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a6541154-045d424a-0f59223a-52c01584-b8fcfdf7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/039f5418-0ddbb77b-1b11c596-13a764f2-4f34c5b5/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e3b8581e-56b4d78d-75cfb73e-c5143b77-e9ae5918/file"
+                ],
+                "seriesIndex": 0,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "MR",
+                "stackId": "16",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f7d6978a-47a97870-dbedbf5c-0da82fb8-0e8254d8/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/760831c2-d50e0761-74b44665-8e2ccbc9-a30bac16/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/46e599b6-33c86544-31426aad-900ca26a-19a4481c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ecdf4c37-31a2b966-5692319c-8ec83ce8-1e8e5cc9/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/958d4440-70299516-443f461c-f4561486-e94a8a3f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b5d014ae-65086124-09680cea-4d09ce75-4a354df7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6847321a-f7f5bc71-d87593d9-64f3b31a-c82bcc4a/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/778dd9fa-28832bef-d3e59417-71858fb3-853b7b71/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/4611a983-6df3fd43-b3dc4c96-9dda14db-9b6c1143/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d4d0335e-d3f5946a-0203ed9f-675ce88a-821b9373/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6b869440-eaf7b4c3-7f2cefbb-2dd4b055-4ca7c0c5/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1e8a8ab8-00cebb36-43df9a35-7bc24f56-9699a37a/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f029d633-2115aff4-fdcec63b-beb58f0b-9d714eb4/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c338764f-97829a9b-0a03088f-324c0e5b-f4067257/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/bf4b3409-9b23eb34-b1d14a61-09d17a4f-143ba424/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f0b8c1c7-e05058bf-2f66b103-beff7bc1-5797bd5c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a7dc1fc3-b5c8f1ac-bc23c217-060101fe-b1a95177/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/40bb1d19-e6a53476-398dd071-ff174c18-bc03116a/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5dd4c5db-1bc85934-fcca7e25-a75c1204-b90e61b7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/81eeab9d-39320986-45e4bc10-7b601890-6491ad0d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d9fcfc68-c47ee4e8-fa2b1a9b-6a69ccfc-53b14d08/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/9c2fcc4c-65f81970-16aab7b9-997d55d0-0e3aac24/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f6372129-b48df032-26403565-5502d308-c6d70d5c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f01ebf90-28a1c0af-d4aebf6a-8953f81c-ba7ad4f3/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/fa6db67f-84b3efe3-1d204281-15eae6fb-452dcda3/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2449381a-0003d8d8-2cc7f175-480e5833-5637e1d7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e53601a6-ec77d8c8-c5bd8a29-aaa68be0-02003289/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/502dce18-550b83cb-9f5c8144-9c440213-5b6e702a/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/3d72011b-3ee9f939-115187c5-e22ef20a-16ac4686/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/33d0fc47-f7d6e5b1-dbcdbfbd-cad8fb86-397a5af2/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/8991e391-14dd5ecd-744c92f3-2b020c6a-4e3735cb/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/dfc739c8-3dc53efd-a5c0a840-eff76f0f-a0c1f729/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1167b935-d2caf907-2e1fc645-777ac377-25a2d1ac/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5e7fbd1b-fa1c8a7a-1de071c0-a04478c2-52c25c05/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/103c3fc9-3c89703b-f23e11c5-277caca9-90a6a417/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/86e9c981-e718d9c0-9664d658-a9ef00e0-341b3293/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/88076205-7cc94847-96fb0b13-fa206b2c-b5826e3c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/66edb6a0-010a750a-2ef466c7-30f7ee91-f937960b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ce630f0f-cde62a0a-681d2d61-fe4c2f4f-54ad21e1/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/0a0dc345-cebe6ea4-a671f080-3d162286-9749a19b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/0086f21b-85dec464-431160df-ff29d528-848ed65d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/cdb1db2f-5f980f48-5bc13a91-e91a5f6e-362769dc/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2bd1ede6-137f5f93-c3d69237-571fefca-d8db666e/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/dcddb06f-3f99b847-23d2e3d4-175b922f-89e100ff/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a50702c9-23c40136-f4c46f9b-838c196f-17f842cf/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b5d9a2d5-9cf5c0ae-362e9ffa-ca97c688-ad18608f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/87efa124-b5464a42-8ad1dc9a-68c30074-1ce8837c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/3b7e4caa-5c934bc5-968252b2-acb4783e-1b5570c6/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/16a2a3ab-b3dcbbb7-2b70343b-80042ef8-8adff646/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/4185bb23-5220ca5c-fa2d6322-68b89ab6-140a8b11/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/551e58c3-80f66b40-5dc7076a-ccd46851-981a975d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e059b500-218dd3d1-a66d81e6-8fbbad53-151ff7d2/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f33d1291-b99b34f0-9e31c34a-d998a65a-a50b59a2/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1cdbad40-43080545-fbe54c0d-622805b4-88025b7d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/20d8f5aa-83259a9a-2a5673d9-775835bc-9635a0e5/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f15c8cdb-1de6212d-38195011-8ac39001-4957fcc9/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a5a28fec-5614b341-a30d6941-48f5fbd9-30790639/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c246a504-8fd7be31-52b4be1c-4957cd5c-7710b53f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/483e5e75-22e581dd-30d54364-c2a134c4-d0d94afe/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/99c548e7-e3db0c87-89fd6b42-99749213-6223bef1/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/abc896df-f975e750-63e2f49d-c73c0f0b-7b39df5b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/71ec6ad0-90ef3768-79d0d717-e1f1c380-675f0312/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/4b292f56-d9828aac-4cb1685c-0b1acfdc-3d10ae38/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/63375a07-889e90de-880a4b06-64fc3cdd-f739c91d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ae131fea-31c0e313-19997dbf-e2fc1bee-7866cd39/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c223e450-12b6bd36-8c4cc313-5fc526ea-716ee4bb/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/33c0b83a-05ceb6d9-643f0982-07aa6afb-1db0ecc7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/0a690444-38720923-151f3011-04c07d10-8f4934f4/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/75213ec0-7c2f8868-d6666dfb-f226d19a-b40cbde4/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/9154cedd-40e1104d-5096db80-0a495684-4fc77ac2/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/9e83568e-347f655d-97de91c0-561e67ad-c9b2e5c3/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2161dd57-873216c2-406e40db-791e09aa-69615df8/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/96e47063-b7f18f84-20ec1219-d00b8c94-7347d058/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b9122a83-242aa079-4b1122e6-1e7a6c43-45c2ad17/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/8e469e26-7528e9cc-0e784868-125aa450-69402e80/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c9663df6-b3d4ffa8-3ced917b-16383580-dc7cc377/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/df5f7f1f-65ab3b8d-dfd358e7-e28c5d6b-7b758447/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/58a02956-84a278aa-beefdaf7-3498246d-68446dc7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/9171ff03-acfc1077-a869e9f9-eebf05e6-cb862967/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/170b13e1-df17927e-72072259-01c7fe86-63d533de/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/72aa3ce1-08fa5520-238fedfe-6f4d776a-dc3a04b2/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/9efb5818-7f1804d0-7e80df29-5bedf43c-64c8f7f7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2bbb1b8d-6059da5c-dd3e7c8c-af425ad4-cef2e266/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e394eb2e-7a6e3685-afedc6b4-28e6684b-6dc75db7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b658d164-836c598c-faf8f036-bdfcf872-83ca48a0/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/0e9e4711-8bad9642-ffd95bb6-8adaab0b-da12cb7f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c665b7bc-b46d2006-5f61b814-bc8e5d0b-f7f44e1c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/37cde3d8-4503a950-eedaa3ba-a8a5f469-875b3f90/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a1e750d8-2cc30925-efab3f28-617d6f0e-0d12d084/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/63a240c4-0725aac0-e3a57ff5-629b0141-a6cdc466/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1acede5d-ed0e80eb-6407d8d2-feb4e385-cb974c90/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b9280e02-ce58124e-35613a14-052414bc-856f3a30/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/792f0821-412a58ca-a6a36011-37a285fe-a78ab84c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/83dd6822-2655b9c4-9fd0d89a-3e80f933-54c68729/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/3917d8fa-c104a36b-cd1eeb57-ea0a7739-ab2a97b5/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e5c15a35-9860520f-90cca3b9-c39ac368-1697921e/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/577867c1-dd26b869-0f25b869-fcb9f9e1-87a110e8/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1f9e5084-4d92bf72-c6d6ff2a-1e7bc3c6-c235c35b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/69782ecd-7e9239c1-aea43d36-d275ae94-c831cf42/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/78d9b7aa-e3bbf03c-e347c67d-835050df-850d484c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ea28d895-ef0592bd-a1e46e76-2980c6f6-593180c9/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/eba206f7-9926257e-b9a51bab-0a5f5fb9-49526884/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/82a4b712-434de537-47a5cfc9-709e70c4-6ed9a520/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/fc0b3b16-ff42a604-2c5f8841-375855ce-93ab5aad/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b3f2f09c-66affed4-5ade0dfa-a0abfc46-aad8fc94/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/fa9907db-7862a9e1-a5f8eea8-da971f99-77641faf/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2ab5bd25-2bc3dabf-33521261-a7ba4f53-91696689/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f847e98b-ff821d1f-5a5fb175-c925f3bb-84e18d35/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/68bc6726-782a1cf8-5fc4d069-c3db1fd3-3ad317b7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/df4a4b43-3b8eca5d-0d41a7ab-0fa5adce-d5959db3/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/fc42adb7-6df64d22-d81c679b-3f89cead-c0d1cd9d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/fa0b6b4d-b43ba857-18e4a2fa-df6f0e3f-98a3de94/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/21ea7ec0-4406f104-3c597f55-ffed31ef-293bad13/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/2d06a28b-1773d347-39eaf72c-f7ba38ce-d6842c53/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/8049ae7d-5d12483b-c3581589-7f521180-aeaa03cd/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/df076442-e67f9d86-12937756-9a338d78-f5d40ece/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a5d7388a-dd09ff0b-505f58f1-89f49483-981a6594/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6a0b8444-dc94bbff-dd9bad2d-7206970b-a5c88140/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/0b4abd5a-24810e1a-fdec5d95-4a19df57-a3e5b826/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/7afc5973-1ab517b4-239970ff-89eb1416-94d36e0f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/7ceb7c5b-5286279e-63bec655-7999cf09-5c2cf6d7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/65a17b52-21025801-61a34818-65ece560-135f6bf7/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d27acb00-bfa9be99-8b826b0c-ef02079d-33cdbe2e/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f136c720-a1d42015-019482aa-ea8234b4-1951ba82/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d00c8fac-eb95460c-856726a0-0ab070c4-adbe5320/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/48437eab-a2e1fa25-375a2c8b-c5e42d37-c897bbf4/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b017a966-f9c5cec8-3986b246-ba484b0d-eab50990/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/46d579a1-9f253646-63e4d0f4-d66b0445-07b90c51/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/291d0881-d133b0c1-ef9a837d-7b15a1b8-e801c06c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/98092994-002f113e-8b2e2c0a-57f95577-2cf19d86/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d2628290-7992a4cd-abc1b3ab-b4c72fe2-ec2eed13/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d4ad6c84-333a41a3-ce5e21f8-7997564d-2b5db275/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6c48be34-5179469d-9b36a3e6-34628089-8718c5eb/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/de9f2f0b-55aa7a61-dd17c472-d7c4322b-13edd98f/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5da4c887-4e93ef6f-2c733624-2ca9cc09-3e9eeaaa/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/72fffebb-ad628410-8d3b1d7e-25d38d3f-21112f43/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a0d8a122-5c6d9369-88b1fa98-49d55031-3c55f8dd/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/d52add1e-86c0f39c-a348d702-2583a269-850d601d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b01302fc-9a3599f4-0a88698c-e7cc6eaa-4cbdcb99/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/082bbaf0-4e095ecc-1be04b2e-f67e11c9-292ff656/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/13e49c40-be68e95b-8bf1af4b-e2070af8-872054de/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/925ea970-609fa2c8-aae90bba-ddd2bafd-f963d2aa/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/88e0cd1c-7b917535-93555378-6e2e6348-3b29c4af/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e9f787f9-8b1964e1-efdff3e3-d94b7d40-6b9a437b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/81c74251-07fe715e-67b3335f-e29c971b-96f5f26e/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/62ab3f86-aa4e7486-494dffa8-636450d1-3f357bba/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/e8134ab8-8be57f73-bb2a2f33-b40fd611-ae52c97e/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/f3eb6ee5-0e3bed22-3f10e71d-11ac4ec1-9627366e/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c40daf64-880e33d2-d3fd1fcb-1c61079e-803a0707/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/cfa3c3a5-0cb71785-4c0067af-869827c8-6583f332/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/18ef5429-0394a76c-79e44e28-c4b2a64c-5afa6243/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ab17e1ec-65df2af8-d39d4fb0-a192d5e9-57b48c9e/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1ed7fe97-466e99ad-a56a1636-0a71e58e-1efb3ae2/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/04f7fcfe-a32dc83d-89db1987-d7b34f3c-3543c991/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/044497cd-ac9245a9-5a0e4940-3c82ed45-a13f29e2/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/88198a22-b411113c-fddaad62-ed38b6f5-7a3d8e57/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/cc3ee23c-d9758bdb-f6c634cd-78556a89-44a9e928/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/996b7b7f-152bc49f-c1b291d1-a24c9003-49cea5f2/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/21b5e296-321c28c0-3e9be118-72be589a-0c6d1cea/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c541e3f2-d6a39298-29f0c186-3af9bef0-35ee501b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/51d5830a-710818e9-38d5b3b1-44f34368-abc6fde4/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/17e97f50-0a3ed490-857b093b-eb147c1d-a58ee9a2/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/cb01cdd7-dd7232bb-b32bf36a-aa61ee7b-04ddd6ef/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/398ad360-68e43aec-a01ad7dd-14f1b2a0-531e9996/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c0e24403-53db6438-e576b454-3aeb0ee2-3912a4da/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/33d37aac-80e37e5b-0bda48f7-c529a52d-929b7e09/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/7787ebc9-85a1a0a4-f6982f90-100ef000-83ddb15c/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/193c7679-15f42d4f-dad1c147-d6871ed8-769b5f3d/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/1523e5b7-ec2227e9-da40ca56-1a923c79-ad74d2ce/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/fb845fb9-c3438229-fad5c65e-f4647b21-dfe16ce9/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/b2c7f1c3-e2c70fea-e5d3b81e-f63656e7-acc5fc9b/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/38622d28-9422d41c-45b57bec-ec75032b-471b10ae/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/4acb454b-6f362ed3-d5d62e99-bae83ea6-08f2e8cd/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ac3ebe10-c179bc17-67cb885a-e74a081b-ceec1704/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/81476f9d-12c8a5cb-59b2cc00-d7408cfd-e1c1f7a8/file",
+                    "wadouri://breastscreening.arditi.pt:8553/instances/a20eb611-27eae1a3-c587ca8a-72f5be12-3b8639be/file"
+                ],
+                "seriesIndex": 1,
+                "currentImageIdIndex": 75,
+                "freehand": [
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": [
+                            {
+                                "x": 267.6980388651497,
+                                "y": 164.36706368360942,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 268.94692451051407,
+                                        "y": 163.04879550239147
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 268.94692451051407,
+                                "y": 163.04879550239147,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 270.265192691732,
+                                        "y": 161.38361464190564
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 270.265192691732,
+                                "y": 161.38361464190564,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 270.40395776343917,
+                                        "y": 159.37152110215195
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 270.40395776343917,
+                                "y": 159.37152110215195,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 270.3345752275856,
+                                        "y": 156.80436727556963
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 270.3345752275856,
+                                "y": 156.80436727556963,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 268.0449515444176,
+                                        "y": 155.83301177361955
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 268.0449515444176,
+                                "y": 155.83301177361955,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 265.1308850385674,
+                                        "y": 156.66560220386248
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 265.1308850385674,
+                                "y": 156.66560220386248,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 264.2289120724709,
+                                        "y": 158.95522588703048
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 264.2289120724709,
+                                "y": 158.95522588703048,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 265.0615025027138,
+                                        "y": 161.7999098570271
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 265.0615025027138,
+                                "y": 161.7999098570271,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": true,
+                                "lines": [
+                                    {
+                                        "x": 266.171623076371,
+                                        "y": 162.84064789483074
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 266.171623076371,
+                                "y": 162.84064789483074,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": true,
+                                "lines": [
+                                    {
+                                        "x": 267.6980388651497,
+                                        "y": 164.36706368360942,
+                                        "highlight": true,
+                                        "active": true,
+                                        "lastFlag": false,
+                                        "lines": [
+                                            {
+                                                "x": 268.94692451051407,
+                                                "y": 163.04879550239147
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "highlight": false
+                    }
+                ]
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "8313",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/c95fe516-7c084750-eff358c4-d4f4e011-4829cca2/file"
+                ],
+                "seriesIndex": 2,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "8313",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/5c8ef31e-d9f9aaa6-9d30697d-4b7b5f57-a1c67298/file"
+                ],
+                "seriesIndex": 3,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "8313",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/4dc86572-8709b9f1-20570f6c-9dbfbe86-e144ee85/file"
+                ],
+                "seriesIndex": 4,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "8313",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/41880a12-bc1b66cf-ba5c97ff-96de012b-04ef7d48/file"
+                ],
+                "seriesIndex": 5,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "US",
+                "stackId": "1",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/4206dc91-e6d888e3-0f12ebc6-807db9ed-49b3e521/file"
+                ],
+                "seriesIndex": 6,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "US",
+                "stackId": "1",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/ea53e35c-afd31f58-d74119b3-bf5de71e-bffa775f/file"
+                ],
+                "seriesIndex": 7,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "US",
+                "stackId": "1",
+                "imageIds": [
+                    "wadouri://breastscreening.arditi.pt:8553/instances/6286f647-ff677da8-1644aaeb-b04f7ece-317d72c7/file"
+                ],
+                "seriesIndex": 8,
+                "currentImageIdIndex": 0
+            }
+        ],
+        "currentStack": 1
+    },
+    "path": "8a34aadb-44f0-4c25-abf6-27fcceec1f95.json"
+}
