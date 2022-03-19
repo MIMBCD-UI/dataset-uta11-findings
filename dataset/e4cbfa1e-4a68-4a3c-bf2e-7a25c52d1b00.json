@@ -185,7 +185,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/9dd4eec3-395af83b-f28daa5f-d652321d-579300a4/file"
                 ],
                 "seriesIndex": 0,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "",
                 "imageSide": ""
             },
@@ -196,7 +196,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/8241e094-8ff1eb8b-d4170e8f-453d05c3-644904a3/file"
                 ],
                 "seriesIndex": 1,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "",
                 "imageSide": "",
                 "freehand": [

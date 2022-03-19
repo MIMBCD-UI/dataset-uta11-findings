@@ -169,7 +169,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/a465dc6d-d3667618-7c79b064-06beef27-3c335c8a/file"
                 ],
                 "seriesIndex": 0,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "",
                 "imageSide": ""
             },
@@ -180,7 +180,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/e71ad8fd-7990e5c6-df70cde7-f98edd61-3f83670c/file"
                 ],
                 "seriesIndex": 1,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "CC",
                 "imageSide": "R",
                 "probe": [
@@ -817,7 +817,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/621f6b2f-c887fff9-7f18b6d9-07965047-8a43c593/file"
                 ],
                 "seriesIndex": 2,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "CC",
                 "imageSide": "L",
                 "probe": [
@@ -1129,7 +1129,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/5502805b-7ae72c63-92ae4420-1c2a6619-d9e533d1/file"
                 ],
                 "seriesIndex": 3,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "MLO",
                 "imageSide": "R",
                 "probe": [
@@ -1844,7 +1844,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/de9f1471-5e1e4850-2926982c-1ee847fa-68dba30d/file"
                 ],
                 "seriesIndex": 4,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "MLO",
                 "imageSide": "L",
                 "probe": [
@@ -2130,7 +2130,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/b7a78d9f-659a35b6-4fe6926b-eaf9af01-8df3f01a/file"
                 ],
                 "seriesIndex": 5,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "",
                 "imageSide": ""
             }

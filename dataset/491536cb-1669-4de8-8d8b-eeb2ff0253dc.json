@@ -201,7 +201,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/ac9a2667-b2517d3c-c8942b6b-8a883413-bc93ebb5/file"
                 ],
                 "seriesIndex": 0,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "",
                 "imageSide": ""
             },
@@ -212,7 +212,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/17931dbf-621fea9d-ae54076e-648549a2-c051faaf/file"
                 ],
                 "seriesIndex": 1,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "CC",
                 "imageSide": "R",
                 "probe": [
@@ -251,7 +251,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/fdb02f35-a5f2f3a3-3fdd9116-70e70608-49d0e2e5/file"
                 ],
                 "seriesIndex": 2,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "CC",
                 "imageSide": "L",
                 "freehand": [
@@ -675,7 +675,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/aa3aa8bf-ebca515a-2044493f-fc9731db-3b1ba480/file"
                 ],
                 "seriesIndex": 3,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "MLO",
                 "imageSide": "R"
             },
@@ -686,7 +686,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/cbf21d10-6e003b88-2bf51a4a-a8b7c6c6-ceb5bd35/file"
                 ],
                 "seriesIndex": 4,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "MLO",
                 "imageSide": "L",
                 "freehand": [
@@ -1136,7 +1136,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/628612b3-6085d606-40ad6a8d-2c8a83b6-7aca134c/file"
                 ],
                 "seriesIndex": 5,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "",
                 "imageSide": "",
                 "freehand": [

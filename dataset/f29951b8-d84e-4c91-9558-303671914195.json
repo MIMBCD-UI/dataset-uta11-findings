@@ -265,7 +265,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/b9a8ecc7-734e0dd5-04b6cf3a-01df5ddb-6f97771e/file"
                 ],
                 "seriesIndex": 0,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "",
                 "imageSide": ""
             },
@@ -276,7 +276,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/69c04d13-54cb4a80-91268a65-b60b2095-f031beb5/file"
                 ],
                 "seriesIndex": 1,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "CC",
                 "imageSide": "R",
                 "freehand": [
@@ -526,7 +526,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/ca0b3dd6-6dab5ef6-af4f0a5a-96ba5432-91f76dda/file"
                 ],
                 "seriesIndex": 2,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "CC",
                 "imageSide": "L",
                 "probe": [
@@ -565,7 +565,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/131ee68b-7f016bc1-a770a2c8-48e5577b-e5f41b18/file"
                 ],
                 "seriesIndex": 3,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "MLO",
                 "imageSide": "R",
                 "freehand": [
@@ -763,7 +763,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/8c6f2f31-e3fa4903-7bdee8c6-2f1c5272-84b25f77/file"
                 ],
                 "seriesIndex": 4,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "MLO",
                 "imageSide": "L",
                 "probe": [
@@ -802,7 +802,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/8f2447f9-03e657b5-252c0128-549789e3-c72a7249/file"
                 ],
                 "seriesIndex": 5,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "",
                 "imageSide": "",
                 "freehand": [

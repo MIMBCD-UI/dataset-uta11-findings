@@ -26,7 +26,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/c6080112-046a4b51-8b285de2-d248b7e8-0aa3c746/file"
                 ],
                 "seriesIndex": 0,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "CC",
                 "imageSide": "L",
                 "freehand": [
@@ -209,7 +209,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/a7c1015d-47f41f8d-2fc3cf2a-27728770-2741105b/file"
                 ],
                 "seriesIndex": 1,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "CC",
                 "imageSide": "R",
                 "probe": [
@@ -360,7 +360,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/3f2d164e-90721142-d2b8861f-13144e25-b4838aab/file"
                 ],
                 "seriesIndex": 2,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "MLO",
                 "imageSide": "L",
                 "freehand": [
@@ -595,7 +595,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/e5de9abd-341ea739-aabf9bbc-0811bbf6-5339619a/file"
                 ],
                 "seriesIndex": 3,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "MLO",
                 "imageSide": "R",
                 "probe": [
@@ -930,7 +930,7 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/c72be7f1-8a9faf69-89c01203-aa57204b-1a652ca5/file"
                 ],
                 "seriesIndex": 4,
-                "currentImageIdIndex": 0,
+                "currentImageIdIndex": [0],
                 "viewPosition": "",
                 "imageSide": "",
                 "freehand": [
