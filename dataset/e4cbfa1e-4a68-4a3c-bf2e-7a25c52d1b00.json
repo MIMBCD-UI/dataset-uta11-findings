@@ -185,7 +185,207 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/9dd4eec3-395af83b-f28daa5f-d652321d-579300a4/file"
                 ],
                 "seriesIndex": 0,
-                "currentImageIdIndex": [0],
+                "currentImageIdIndex": [79],
+                "freehand": [
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": [
+                            {
+                                "x": 241.39766820229227,
+                                "y": 92.85251429080876,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 237.89146942786562,
+                                        "y": 96.85959860443921
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 237.89146942786562,
+                                "y": 96.85959860443921,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 238.39235496706942,
+                                        "y": 101.11712568767157
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 238.39235496706942,
+                                "y": 101.11712568767157,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 239.64456881507894,
+                                        "y": 108.12952323652488
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 239.64456881507894,
+                                "y": 108.12952323652488,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 247.15785190313605,
+                                        "y": 111.13483647174772
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 247.15785190313605,
+                                "y": 111.13483647174772,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 246.65696636393224,
+                                        "y": 116.3941346333877
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 246.65696636393224,
+                                "y": 116.3941346333877,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 248.41006575114557,
+                                        "y": 121.40299002542577
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 248.41006575114557,
+                                "y": 121.40299002542577,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 250.6640506775627,
+                                        "y": 117.1454629421934
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 250.6640506775627,
+                                "y": 117.1454629421934,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 252.41715006477602,
+                                        "y": 109.3817370845344
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 252.41715006477602,
+                                "y": 109.3817370845344,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 252.41715006477602,
+                                        "y": 105.37465277090394
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 252.41715006477602,
+                                "y": 105.37465277090394,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 253.41892114318364,
+                                        "y": 98.36225522205063
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 253.41892114318364,
+                                "y": 98.36225522205063,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 251.4153789863684,
+                                        "y": 90.09764382518782
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 251.4153789863684,
+                                "y": 90.09764382518782,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": false,
+                                "lines": [
+                                    {
+                                        "x": 245.90563805512653,
+                                        "y": 89.84720105558591
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 245.90563805512653,
+                                "y": 89.84720105558591,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": true,
+                                "lines": [
+                                    {
+                                        "x": 239.89501158468084,
+                                        "y": 92.60207152120685
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 239.89501158468084,
+                                "y": 92.60207152120685,
+                                "highlight": true,
+                                "active": true,
+                                "lastFlag": true,
+                                "lines": [
+                                    {
+                                        "x": 241.39766820229227,
+                                        "y": 92.85251429080876,
+                                        "highlight": true,
+                                        "active": true,
+                                        "lastFlag": false,
+                                        "lines": [
+                                            {
+                                                "x": 237.89146942786562,
+                                                "y": 96.85959860443921
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "highlight": false
+                    }
+                ],
                 "viewPosition": "",
                 "imageSide": ""
             },
