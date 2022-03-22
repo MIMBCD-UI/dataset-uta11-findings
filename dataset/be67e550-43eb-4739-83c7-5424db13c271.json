@@ -185,11 +185,35 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/06751c9d-6ebaf29d-72f17cbc-7c050f1c-fc7d1a33/file"
                 ],
                 "seriesIndex": 0,
-                "currentImageIdIndex": [111,110,101,103],
+                "currentImageIdIndex": [
+                    111,
+                    110,
+                    101,
+                    103
+                ],
                 "freehand": [
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "round",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "margin": {
+                            "type": "circumscribed",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "internal_enhancement": {
+                            "type": "homogeneous"
+                        },                        
                         "handles": [
                             {
                                 "x": 129.4082428428324,
@@ -362,6 +386,25 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "round",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "margin": {
+                            "type": "circumscribed",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "internal_enhancement": {
+                            "type": "homogeneous"
+                        },  
                         "handles": [
                             {
                                 "x": 126.98624048644933,
@@ -521,6 +564,25 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "round",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "margin": {
+                            "type": "circumscribed",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "internal_enhancement": {
+                            "type": "homogeneous"
+                        },  
                         "handles": [
                             {
                                 "x": 117.87740553744348,
@@ -654,6 +716,25 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "round",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "margin": {
+                            "type": "circumscribed",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "internal_enhancement": {
+                            "type": "homogeneous"
+                        },  
                         "handles": [
                             {
                                 "x": 126.37922490555604,
@@ -782,7 +863,9 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/8cb02609-864068a3-1c1ed628-d1a84d9c-e867502c/file"
                 ],
                 "seriesIndex": 1,
-                "currentImageIdIndex": [0],
+                "currentImageIdIndex": [
+                    0
+                ],
                 "viewPosition": "CC",
                 "imageSide": "R"
             },
@@ -793,7 +876,9 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/c7bbf7a2-0e29875f-2da43fce-11bf6400-a153d894/file"
                 ],
                 "seriesIndex": 2,
-                "currentImageIdIndex": [0],
+                "currentImageIdIndex": [
+                    0
+                ],
                 "viewPosition": "CC",
                 "imageSide": "L"
             },
@@ -804,13 +889,39 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/6ba0f2c4-362d8772-c2198fa2-6e5da9a9-9ea3ec10/file"
                 ],
                 "seriesIndex": 3,
-                "currentImageIdIndex": [0],
+                "currentImageIdIndex": [
+                    0
+                ],
                 "viewPosition": "MLO",
                 "imageSide": "R",
                 "freehand": [
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "round",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "margin": {
+                            "type": "indistinct",
+                            "color_rgb": [
+                                255,
+                                153,
+                                0
+                            ]
+                        },
+                        "density": {
+                            "type": "high",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
                         "handles": [
                             {
                                 "x": 2091.363456336286,
@@ -911,13 +1022,25 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/e23017ec-1d0649a0-318f92d9-0067b707-3d022f0c/file"
                 ],
                 "seriesIndex": 4,
-                "currentImageIdIndex": [0],
+                "currentImageIdIndex": [
+                    0
+                ],
                 "viewPosition": "MLO",
                 "imageSide": "L",
                 "probe": [
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 170.35197684117804,
@@ -931,6 +1054,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 245.0113465926275,
@@ -950,7 +1083,9 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/9df7bfc7-3918815f-fc1ad000-101538fd-1968e3dd/file"
                 ],
                 "seriesIndex": 5,
-                "currentImageIdIndex": [0],
+                "currentImageIdIndex": [
+                    0
+                ],
                 "viewPosition": "",
                 "imageSide": "",
                 "freehand": [

@@ -185,11 +185,34 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/d054433d-eff2a631-1931897f-11c34f58-a2a1c887/file"
                 ],
                 "seriesIndex": 0,
-                "currentImageIdIndex": [46,83,72],
+                "currentImageIdIndex": [
+                    46,
+                    83,
+                    72
+                ],
                 "freehand": [
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "oval",
+                            "color_rgb": [
+                                255,
+                                255,
+                                0
+                            ]
+                        },
+                        "margin": {
+                            "type": "circumscribed",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "internal_enhancement": {
+                            "type": "rim"
+                        },
                         "handles": [
                             {
                                 "x": 105.86146275211121,
@@ -649,13 +672,39 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/7b38d21c-31b82696-34490639-9aa45bc9-9a3bfa4a/file"
                 ],
                 "seriesIndex": 1,
-                "currentImageIdIndex": [0],
+                "currentImageIdIndex": [
+                    0
+                ],
                 "viewPosition": "CC",
                 "imageSide": "R",
                 "freehand": [
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "oval",
+                            "color_rgb": [
+                                255,
+                                255,
+                                0
+                            ]
+                        },
+                        "margin": {
+                            "type": "microlobulated",
+                            "color_rgb": [
+                                241,
+                                194,
+                                50
+                            ]
+                        },
+                        "density": {
+                            "type": "high",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
                         "handles": [
                             {
                                 "x": 2594.2959333496437,
@@ -999,6 +1048,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 2520.964948924655,
@@ -1012,6 +1071,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 2622.2053609372815,
@@ -1025,6 +1094,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 2533.8208742595916,
@@ -1038,6 +1117,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 2628.6333236047503,
@@ -1051,6 +1140,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 2627.8298282713167,
@@ -1064,6 +1163,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 2525.7859209252565,
@@ -1077,6 +1186,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 2614.97390293638,
@@ -1096,13 +1215,25 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/6bb20610-65388a0a-6ae5a57b-fe7ea96c-be8bc28e/file"
                 ],
                 "seriesIndex": 2,
-                "currentImageIdIndex": [0],
+                "currentImageIdIndex": [
+                    0
+                ],
                 "viewPosition": "CC",
                 "imageSide": "L",
                 "probe": [
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 319.6662637196465,
@@ -1122,13 +1253,25 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/a254a650-5c6bb13d-ff361cb4-70d2b3dd-8ce6a6bd/file"
                 ],
                 "seriesIndex": 3,
-                "currentImageIdIndex": [0],
+                "currentImageIdIndex": [
+                    0
+                ],
                 "viewPosition": "MLO",
                 "imageSide": "L",
                 "probe": [
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 388.4376749842095,
@@ -1148,13 +1291,39 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/c1383b91-46f84956-94e09f49-dd6aa0d8-5154bfda/file"
                 ],
                 "seriesIndex": 4,
-                "currentImageIdIndex": [0],
+                "currentImageIdIndex": [
+                    0
+                ],
                 "viewPosition": "MLO",
                 "imageSide": "R",
                 "freehand": [
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "oval",
+                            "color_rgb": [
+                                255,
+                                255,
+                                0
+                            ]
+                        },
+                        "margin": {
+                            "type": "microlobulated",
+                            "color_rgb": [
+                                241,
+                                194,
+                                50
+                            ]
+                        },
+                        "density": {
+                            "type": "high",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
                         "handles": [
                             {
                                 "x": 2612.204339835359,
@@ -1433,6 +1602,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 2416.198928556852,
@@ -1446,6 +1625,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 2481.645967699005,
@@ -1459,6 +1648,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 2485.1271931852893,
@@ -1472,6 +1671,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 2494.1783794496296,
@@ -1485,6 +1694,16 @@
                     {
                         "visible": true,
                         "active": false,
+                        "distribution": [
+                            "group"
+                        ],
+                        "color_rgb": [
+                            [
+                                255,
+                                255,
+                                0
+                            ]
+                        ],
                         "handles": {
                             "end": {
                                 "x": 2497.8175096092186,

@@ -185,11 +185,33 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/1dfcdc27-4f989994-16b35f1f-99180db8-dbf77fa8/file"
                 ],
                 "seriesIndex": 0,
-                "currentImageIdIndex": [103,85],
+                "currentImageIdIndex": [
+                    103,
+                    85
+                ],
                 "freehand": [
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "irregular",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
+                        "margin": {
+                            "type": "spiculated",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
+                        "internal_enhancement": {
+                            "type": "heterogeneous"
+                        },
                         "handles": [
                             {
                                 "x": 238.16642416683953,
@@ -464,13 +486,42 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/dafa0c3e-b540dc4e-1d96cea7-c146db1e-336714ef/file"
                 ],
                 "seriesIndex": 1,
-                "currentImageIdIndex": [0],
+                "currentImageIdIndex": [
+                    0
+                ],
                 "viewPosition": "",
                 "imageSide": "",
                 "freehand": [
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "irregular",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
+                        "orientation": {
+                            "type": "not parallel"
+                        },
+                        "margin": {
+                            "type": "indistinct",
+                            "color_rgb": [
+                                255,
+                                153,
+                                0
+                            ]
+                        },
+                        "echo_pattern": {
+                            "type": "heterogeneous"
+                        },
+                        "posterior features": {
+                            "type": [
+                                "shadowing"
+                            ]
+                        },
                         "handles": [
                             {
                                 "x": 429.16885394490765,

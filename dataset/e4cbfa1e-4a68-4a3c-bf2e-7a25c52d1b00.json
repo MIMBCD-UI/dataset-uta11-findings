@@ -190,6 +190,31 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "irregular",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
+                        "margin": {
+                            "type": "spiculated",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
+                        "internal_enhancement": {
+                            "type": "heterogeneous"
+                        },
+                        "associated features": {
+                            "type" : [
+                            "nipple retraction",
+                            "skin thickening"
+                            ]
+                        },
                         "handles": [
                             {
                                 "x": 241.39766820229227,
@@ -403,6 +428,31 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "irregular",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
+                        "margin": {
+                            "type": "spiculated",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
+                        "orientation": {
+                            "type": "not parallel"
+                        },
+                        "echo_pattern": {
+                            "type": "hypoechoic"
+                        },
+                        "posterior features": {
+                            "type" : ["shadowing"]
+                        },
                         "handles": [
                             {
                                 "x": 187.70503597122297,

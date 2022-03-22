@@ -28,6 +28,30 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "oval",
+                            "color_rgb": [
+                                255,
+                                255,
+                                0
+                            ]
+                        },
+                        "margin": {
+                            "type": "microlobulated",
+                            "color_rgb": [
+                                241,
+                                194,
+                                50
+                            ]
+                        },
+                        "density": {
+                            "type": "high",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
                         "handles": [
                             {
                                 "x": 2387.179689559291,
@@ -224,6 +248,30 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "oval",
+                            "color_rgb": [
+                                255,
+                                255,
+                                0
+                            ]
+                        },
+                        "margin": {
+                            "type": "microlobulated",
+                            "color_rgb": [
+                                241,
+                                194,
+                                50
+                            ]
+                        },
+                        "density": {
+                            "type": "high",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
                         "handles": [
                             {
                                 "x": 2282.5625867682384,

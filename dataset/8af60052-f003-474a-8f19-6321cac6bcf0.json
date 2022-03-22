@@ -158,6 +158,25 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "irregular",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
+                        "margin": {
+                            "type": "irregular",
+                            "color_rgb": [
+                                255,
+                                153,
+                                0
+                            ]
+                        },
+                        "internal_enhancement": {
+                            "type": "heterogeneous"
+                         },
                         "handles": [
                             {
                                 "x": 231.55712603062426,
@@ -504,6 +523,31 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "irregular",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
+                        "orientation": {
+                            "type": "not parallel"
+                        },
+                        "margin": {
+                            "type": "angular",
+                            "color_rgb": [
+                                255,
+                                153,
+                                0
+                            ]
+                        },
+                        "echo_pattern": {
+                            "type": "heterogeneous"
+                        },          
+                        "posterior features":{
+                            "type" : ["shadowing"]
+                        },              
                         "handles": [
                             {
                                 "x": 502.6268925141277,

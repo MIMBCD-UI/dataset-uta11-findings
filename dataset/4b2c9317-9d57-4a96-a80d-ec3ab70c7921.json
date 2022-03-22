@@ -28,6 +28,30 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "round",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "margin": {
+                            "type": "circumscribed",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "density": {
+                            "type": "equal",
+                            "color_rgb": [
+                                255,
+                                255,
+                                0
+                            ]
+                        },
                         "handles": [
                             {
                                 "x": 487.49572537810263,
@@ -198,6 +222,30 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "round",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "margin": {
+                            "type": "circumscribed",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "density": {
+                            "type": "equal",
+                            "color_rgb": [
+                                255,
+                                255,
+                                0
+                            ]
+                        },
                         "handles": [
                             {
                                 "x": 536.8544450405367,
@@ -318,6 +366,28 @@
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "oval",
+                            "color_rgb": [
+                                255,
+                                255,
+                                0
+                            ]
+                        },
+                        "margin": {
+                            "type": "circumscribed",
+                            "color_rgb": [
+                                0,
+                                158,
+                                15
+                            ]
+                        },
+                        "orientation": {
+                            "type": "parallel"
+                        },
+                        "echo_pattern": {
+                            "type": "anechoic"
+                        },
                         "handles": [
                             {
                                 "x": 222.6384574156541,

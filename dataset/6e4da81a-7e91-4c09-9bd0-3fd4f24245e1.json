@@ -18,7 +18,7 @@
                         "visible": true,
                         "active": false,
                         "distribution": [
-                            "regional"
+                            "group"
                         ],
                         "color_rgb": [
                             [
@@ -41,7 +41,7 @@
                         "visible": true,
                         "active": false,
                         "distribution": [
-                            "regional"
+                            "group"
                         ],
                         "color_rgb": [
                             [
@@ -64,7 +64,7 @@
                         "visible": true,
                         "active": false,
                         "distribution": [
-                            "regional"
+                            "group"
                         ],
                         "color_rgb": [
                             [
@@ -87,7 +87,7 @@
                         "visible": true,
                         "active": false,
                         "distribution": [
-                            "regional"
+                            "group"
                         ],
                         "color_rgb": [
                             [
@@ -110,7 +110,7 @@
                         "visible": true,
                         "active": false,
                         "distribution": [
-                            "regional"
+                            "group"
                         ],
                         "color_rgb": [
                             [
@@ -135,10 +135,10 @@
                         "visible": true,
                         "active": false,
                         "shape": {
-                            "type": "lobulated",
+                            "type": "oval",
                             "color_rgb": [
                                 255,
-                                153,
+                                255,
                                 0
                             ]
                         },
@@ -524,7 +524,7 @@
                         "visible": true,
                         "active": false,
                         "distribution": [
-                            "regional"
+                            "group"
                         ],
                         "color_rgb": [
                             [
@@ -547,7 +547,7 @@
                         "visible": true,
                         "active": false,
                         "distribution": [
-                            "regional"
+                            "group"
                         ],
                         "color_rgb": [
                             [
@@ -570,7 +570,7 @@
                         "visible": true,
                         "active": false,
                         "distribution": [
-                            "regional"
+                            "group"
                         ],
                         "color_rgb": [
                             [
@@ -593,7 +593,7 @@
                         "visible": true,
                         "active": false,
                         "distribution": [
-                            "regional"
+                            "group"
                         ],
                         "color_rgb": [
                             [
@@ -616,7 +616,7 @@
                         "visible": true,
                         "active": false,
                         "distribution": [
-                            "regional"
+                            "group"
                         ],
                         "color_rgb": [
                             [
@@ -639,7 +639,7 @@
                         "visible": true,
                         "active": false,
                         "distribution": [
-                            "regional"
+                            "group"
                         ],
                         "color_rgb": [
                             [
@@ -664,10 +664,10 @@
                         "visible": true,
                         "active": false,
                         "shape": {
-                            "type": "lobulated",
+                            "type": "oval",
                             "color_rgb": [
                                 255,
-                                153,
+                                255,
                                 0
                             ]
                         },
@@ -1204,20 +1204,15 @@
                             ]
                         },
                         "margin": {
-                            "type": "indistinct",
+                            "type": "microlobulated",
                             "color_rgb": [
-                                255,
-                                153,
-                                0
+                                241,
+                                194,
+                                50
                             ]
                         },
-                        "density": {
-                            "type": "high",
-                            "color_rgb": [
-                                207,
-                                42,
-                                39
-                            ]
+                        "echo_pattern": {
+                            "type": "hypoechoic"
                         },
                         "handles": [
                             {
@@ -1936,11 +1931,30 @@
                     "wadouri://breastscreening.arditi.pt:8553/instances/052faf89-6193c538-cd829cfe-db6ee35c-f5544ded/file"
                 ],
                 "seriesIndex": 5,
-                "currentImageIdIndex": 113,
+                "currentImageIdIndex": [113],
                 "freehand": [
                     {
                         "visible": true,
                         "active": false,
+                        "shape": {
+                            "type": "oval",
+                            "color_rgb": [
+                                255,
+                                255,
+                                0
+                            ]
+                        },
+                        "margin": {
+                            "type": "spiculated",
+                            "color_rgb": [
+                                207,
+                                42,
+                                39
+                            ]
+                        },
+                        "internal_enhancement": {
+                            "type": "heterogeneous"
+                        },
                         "handles": [
                             {
                                 "x": 232.89404145132193,
