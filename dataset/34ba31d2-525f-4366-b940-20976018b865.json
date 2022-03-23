@@ -38,6 +38,144 @@
                             }
                         },
                         "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
+                        "handles": {
+                            "end": {
+                                "x": 3761.9568711370594,
+                                "y": 1693.403603194928,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
+                        "handles": {
+                            "end": {
+                                "x": 3746.4369716952024,
+                                "y": 1775.437357387603,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
+                        "handles": {
+                            "end": {
+                                "x": 3849.5334465589694,
+                                "y": 2104.680938404149,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
+                        "handles": {
+                            "end": {
+                                "x": 3714.2886085656405,
+                                "y": 1849.711161859349,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
+                        "handles": {
+                            "end": {
+                                "x": 3574.6095135889236,
+                                "y": 1963.8932791815857,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
+                        "handles": {
+                            "end": {
+                                "x": 2324.7871605025784,
+                                "y": 4384.540444002031,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
                     }
                 ]
             },
@@ -357,6 +495,98 @@
                             "end": {
                                 "x": 2369.4964028776976,
                                 "y": 4936.690647482013,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
+                        "handles": {
+                            "end": {
+                                "x": 3352.264696544803,
+                                "y": 3649.3129109667952,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
+                        "handles": {
+                            "end": {
+                                "x": 3327.3765069430365,
+                                "y": 3627.7431466452645,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
+                        "handles": {
+                            "end": {
+                                "x": 2530.9372395792375,
+                                "y": 2565.8190157371064,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
+                        "handles": {
+                            "end": {
+                                "x": 2201.881155191649,
+                                "y": 2783.957318870451,
                                 "highlight": true,
                                 "active": false
                             }

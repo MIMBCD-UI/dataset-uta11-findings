@@ -1072,13 +1072,13 @@
                         "visible": true,
                         "active": false,
                         "distribution": [
-                            "group"
+                            "diffuse"
                         ],
                         "color_rgb": [
                             [
-                                255,
-                                255,
-                                0
+                                0,
+                                158,
+                                15
                             ]
                         ],
                         "handles": {
@@ -1129,77 +1129,8 @@
                         ],
                         "handles": {
                             "end": {
-                                "x": 2628.6333236047503,
-                                "y": 1588.1075301138958,
-                                "highlight": true,
-                                "active": false
-                            }
-                        },
-                        "invalidated": true
-                    },
-                    {
-                        "visible": true,
-                        "active": false,
-                        "distribution": [
-                            "group"
-                        ],
-                        "color_rgb": [
-                            [
-                                255,
-                                255,
-                                0
-                            ]
-                        ],
-                        "handles": {
-                            "end": {
-                                "x": 2627.8298282713167,
-                                "y": 1588.1075301138958,
-                                "highlight": true,
-                                "active": false
-                            }
-                        },
-                        "invalidated": true
-                    },
-                    {
-                        "visible": true,
-                        "active": false,
-                        "distribution": [
-                            "group"
-                        ],
-                        "color_rgb": [
-                            [
-                                255,
-                                255,
-                                0
-                            ]
-                        ],
-                        "handles": {
-                            "end": {
                                 "x": 2525.7859209252565,
                                 "y": 1584.090053446728,
-                                "highlight": true,
-                                "active": false
-                            }
-                        },
-                        "invalidated": true
-                    },
-                    {
-                        "visible": true,
-                        "active": false,
-                        "distribution": [
-                            "group"
-                        ],
-                        "color_rgb": [
-                            [
-                                255,
-                                255,
-                                0
-                            ]
-                        ],
-                        "handles": {
-                            "end": {
-                                "x": 2614.97390293638,
-                                "y": 1583.2865581132946,
                                 "highlight": true,
                                 "active": false
                             }
@@ -1603,13 +1534,13 @@
                         "visible": true,
                         "active": false,
                         "distribution": [
-                            "group"
+                            "diffuse"
                         ],
                         "color_rgb": [
                             [
-                                255,
-                                255,
-                                0
+                                0,
+                                158,
+                                15
                             ]
                         ],
                         "handles": {
@@ -1708,6 +1639,52 @@
                             "end": {
                                 "x": 2497.8175096092186,
                                 "y": 2227.8830880256914,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
+                        "handles": {
+                            "end": {
+                                "x": 2543.4748124468024,
+                                "y": 2124.1921076017225,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "distribution": [
+                            "diffuse"
+                        ],
+                        "color_rgb": [
+                            [
+                                0,
+                                158,
+                                15
+                            ]
+                        ],
+                        "handles": {
+                            "end": {
+                                "x": 2555.2884297897813,
+                                "y": 2117.937839596616,
                                 "highlight": true,
                                 "active": false
                             }
