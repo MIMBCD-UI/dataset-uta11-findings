@@ -528,25 +528,6 @@
                     {
                         "visible": true,
                         "active": false,
-                        "shape": {
-                            "type": "oval",
-                            "color_rgb": [
-                                255,
-                                255,
-                                0
-                            ]
-                        },
-                        "margin": {
-                            "type": "spiculated",
-                            "color_rgb": [
-                                207,
-                                42,
-                                39
-                            ]
-                        },
-                        "echo_pattern": {
-                            "type": "heterogeneous"
-                        },
                         "handles": [
                             {
                                 "x": 236.1177856301531,
@@ -693,25 +674,6 @@
                     {
                         "visible": true,
                         "active": false,
-                        "shape": {
-                            "type": "oval",
-                            "color_rgb": [
-                                255,
-                                255,
-                                0
-                            ]
-                        },
-                        "margin": {
-                            "type": "spiculated",
-                            "color_rgb": [
-                                207,
-                                42,
-                                39
-                            ]
-                        },
-                        "echo_pattern": {
-                            "type": "heterogeneous"
-                        },
                         "handles": [
                             {
                                 "x": 246.33873041417286,
